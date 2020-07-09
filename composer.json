@@ -1,0 +1,16 @@
+{
+    "name": "kamal250/snapshooter",
+    "description": "Snapshooter service based on DO API",
+    "type": "project",
+    "require": {
+        "php": "^7.1",
+        "vlucas/phpdotenv": "^5.0"
+    },
+    "authors": [
+        {
+            "name": "Kamal Joshi",
+            "email": "kamal.joshi@iflair.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
